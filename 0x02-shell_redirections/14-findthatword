@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "root" /gxetc/passwd
+grep "root" /etc/passwd
